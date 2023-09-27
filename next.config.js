@@ -25,6 +25,11 @@ const nextConfig = {
         hostname: "www.hamburg.de",
         port: "",
       },
+      {
+        protocol: "https",
+        hostname: "www.ndr.de",
+        port: "",
+      },
     ],
   },
 };
