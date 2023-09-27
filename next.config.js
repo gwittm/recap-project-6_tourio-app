@@ -20,8 +20,12 @@ const nextConfig = {
         hostname: "images.unsplash.com",
         port: "",
       },
+      {
+        protocol: "https",
+        hostname: "www.hamburg.de",
+        port: "",
+      },
     ],
   },
 };
-
 module.exports = nextConfig;
